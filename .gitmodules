@@ -1,0 +1,3 @@
+[submodule "TestChatDemo/sub"]
+	path = TestChatDemo/sub
+	url = https://github.com/FukeYang/subchat.git
